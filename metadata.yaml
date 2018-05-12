@@ -1,0 +1,43 @@
+_repo: The-Count-s-Chauffeur_30827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Tufnell Le
+    - Queux, William Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: A tale of genteel, smart scoundrelism, and is very ingenious as it keeps
+  the hero of the seeming autobiography somewhat in the dark, thus avoiding explanations
+  of the numerous ""coups,"" and more sordid reasons for the breathless rides en automobile,
+  at the same time stifling the conscience of the reader, as it conveys a verisimilitude
+  of partial innocence throughout on the part of the Count's Chauffeur. 'In Paris,
+  in Rome, in Florence, in Berlin, in Vienna -- in fact, over half the face of Europe,
+  from the Pyrenees to.
+gutenberg_issued: '2010-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Chauffeurs -- Fiction'
+tableOfContents: A move on the "Forty" -- A sentimental swindle -- The story of a
+  secret -- A run with Rosalie -- The six new novels -- The gentleman from London
+  -- The lady of the Great North Road -- The Red Rooster -- Concerning the other fellow
+  -- The lady in a hurry -- The peril of Pierrette.
+title: The Count's Chauffeur
+url: http://www.gutenberg.org/ebooks/30827
